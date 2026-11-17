@@ -1,0 +1,27 @@
+{
+  "name": "BakingSlim \u2014 Daily Metabolic Balance",
+  "short_name": "BakingSlim",
+  "description": "BakingSlim is a one-capsule-a-day metabolic supplement. See the BakingSlim label, the 510 mg proprietary blend, all three prices and the 60-day refund.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fdf6ef",
+  "theme_color": "#16214a",
+  "categories": [
+    "health",
+    "fitness",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

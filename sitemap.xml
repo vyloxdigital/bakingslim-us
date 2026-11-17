@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://bakingslim-us.vercel.app/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-hero.webp</image:loc>
+      <image:title>BakingSlim capsules</image:title>
+      <image:caption>BakingSlim daily metabolic balance capsules, two bottles</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-6-bottles-guarantee.webp</image:loc>
+      <image:title>BakingSlim six-bottle package</image:title>
+      <image:caption>BakingSlim six-bottle package with the 60-day guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-3-bottles-guarantee.webp</image:loc>
+      <image:title>BakingSlim three-bottle package</image:title>
+      <image:caption>BakingSlim three-bottle package with the 60-day guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-2-bottles-guarantee.webp</image:loc>
+      <image:title>BakingSlim two-bottle package</image:title>
+      <image:caption>BakingSlim two-bottle package with the 60-day guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-guarantee.webp</image:loc>
+      <image:title>BakingSlim 60-day money-back guarantee</image:title>
+      <image:caption>BakingSlim 60-day money-back guarantee seal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-review-1.webp</image:loc>
+      <image:title>BakingSlim bottle front</image:title>
+      <image:caption>BakingSlim bottle photographed from the front showing the daily metabolic balance label</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-review-2.webp</image:loc>
+      <image:title>BakingSlim badge detail</image:title>
+      <image:caption>BakingSlim packaging showing the non-GMO, made in USA and GMP badges</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bakingslim-us.vercel.app/images/bakingslim-review-3.webp</image:loc>
+      <image:title>BakingSlim bottle with packaging</image:title>
+      <image:caption>BakingSlim bottle shown alongside the product packaging</image:caption>
+    </image:image>
+  </url>
+</urlset>

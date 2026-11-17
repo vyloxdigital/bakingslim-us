@@ -1,0 +1,51 @@
+# BakingSlim
+
+> A single-page buyer's guide to BakingSlim, a once-daily metabolic balance capsule combining chromium picolinate with a 510 mg proprietary botanical blend. Written for readers in the United States at https://bakingslim-us.vercel.app/. Orders complete on the official checkout with BuyGoods as retailer of record. Last reviewed 17 November 2026.
+
+BakingSlim is taken as one capsule daily with a full glass of water. Its Supplement Facts publish exactly two figures: chromium as chromium picolinate at 100 mcg, 286% of the Daily Value, and a Proprietary Metabolic Blend totalling 510 mg. That blend contains eight named botanicals — green tea leaf extract, apple cider vinegar, berberine HCl, ginger root, cinnamon bark extract, bitter orange fruit extract, cayenne fruit and banaba leaf extract — with no individual amount published for any of them. The capsule count per bottle is not published either, and the advertised supply lengths do not reconcile: at one capsule a day the three and six bottle packages imply 30 capsules per bottle, while the two-bottle package implies 15. The seller describes the product as support for cravings, fullness and the body's use of fat for fuel, and states in its own FAQ that it is meant to work alongside healthy eating and movement rather than replace them. Three packages are sold: two bottles at $79 each ($158 plus an unpublished shipping charge), three bottles at $69 each ($207 posted free, about $2.30 a day) and six bottles at $49 each ($294 posted free, about $1.63 a day). Every package carries a 60-day, no-questions-asked money-back guarantee under which bottles do not need to be returned. One payment, no auto-billing. Not for anyone under 18, pregnant or nursing.
+
+## Page sections
+
+- [What BakingSlim is](https://bakingslim-us.vercel.app/#about): a once-daily capsule, its two published label figures, and the three things that shape the rest of the page.
+- [What BakingSlim says it does](https://bakingslim-us.vercel.app/#claims): the seller's three stated benefits, set against the NIH position on weight-loss supplements as a category.
+- [What is on the BakingSlim label](https://bakingslim-us.vercel.app/#label): the published Supplement Facts table, the eight botanical names, and the nine-versus-eight discrepancy in the marketing copy.
+- [The BakingSlim proprietary blend, and what it hides](https://bakingslim-us.vercel.app/#blend): why eight ingredients sharing 510 mg removes three checks a buyer would normally make.
+- [How long a BakingSlim bottle actually lasts](https://bakingslim-us.vercel.app/#count): the capsule count is unpublished and the three supply labels disagree with each other.
+- [How to take BakingSlim](https://bakingslim-us.vercel.app/#take): one capsule, a full glass of water, no skipped days, and the 90-day run the seller asks for.
+- [Three BakingSlim ingredients worth reading up on](https://bakingslim-us.vercel.app/#watch): bitter orange, green tea extract and berberine, with what the NIH says and who should check first.
+- [Who should not take BakingSlim](https://bakingslim-us.vercel.app/#avoid): the groups the seller excludes, the groups the ingredient list implies, and where to get help if food or weight is a difficult subject.
+- [What BakingSlim says to expect, and when](https://bakingslim-us.vercel.app/#timeline): the seller's own timetable, and the month-long gap between it and the refund window.
+- [BakingSlim packages and prices](https://bakingslim-us.vercel.app/#prices): two, three and six-bottle options with per-bottle price, totals, shipping and advertised supply.
+- [What BakingSlim costs per day](https://bakingslim-us.vercel.app/#cost): the arithmetic behind $2.63, $2.30 and $1.63, and how the disputed supply label changes the first of them.
+- [The BakingSlim 60-day money-back guarantee](https://bakingslim-us.vercel.app/#guarantee): 60 days, no questions asked, and no bottles to send back.
+- [Ordering and delivery of BakingSlim](https://bakingslim-us.vercel.app/#delivery): dispatch within 24 hours from Aurora CO, BuyGoods as retailer, and what is not published.
+- [BakingSlim up close](https://bakingslim-us.vercel.app/#photos): the seller's own product photographs, with no ratings or testimonials reproduced.
+- [Where BakingSlim is made and who sells it](https://bakingslim-us.vercel.app/#made): made in USA in Aurora CO, GMP certified and non-GMO, with no FDA-registration claim and no named manufacturer.
+- [What BakingSlim is meant to work alongside](https://bakingslim-us.vercel.app/#alongside): starting with a clinician, sustainable eating and movement, sleep, and a realistic view of the numbers.
+- [BakingSlim questions, answered](https://bakingslim-us.vercel.app/#faq): ten questions on the product, its label, dosing, the capsule count, price, subscriptions, refunds, medication safety, diet and exercise, and where to buy.
+- [BakingSlim label terms explained](https://bakingslim-us.vercel.app/#terms): proprietary blend, chromium picolinate, Daily Value, synephrine, standardised extract, GMP certified and non-GMO.
+- [About this BakingSlim page](https://bakingslim-us.vercel.app/#page): sources used, what is flagged rather than smoothed over, and the affiliate relationship.
+
+## Ordering
+
+- [Order BakingSlim on the official checkout](https://wellnesspro360.com/buy/BakingSlim): six bottles at $49 each ($294 with free US shipping, about $1.63 a day), three bottles at $69 each ($207 with free US shipping, about $2.30 a day), two bottles at $79 each ($158 plus an unpublished shipping charge). One payment per package, no subscription or auto-billing, and a 60-day no-questions-asked money-back guarantee on all three with no bottles to return. BuyGoods is the retailer of record. Prices read from the official order page on 17 November 2026.
+
+## Sources cited on this page
+
+- [NIH Office of Dietary Supplements: dietary supplements for weight loss](https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/): reports little scientific evidence that weight-loss supplements work, states that bitter orange might not be safe, and notes that green tea extract has been linked to liver damage in some people.
+- [NIDDK: choosing a safe and successful weight-loss program](https://www.niddk.nih.gov/health-information/weight-management/choosing-a-safe-successful-weight-loss-program): calls a conversation with a health care professional an important first step, and names results-without-changes claims as a warning sign.
+- [MedlinePlus: weight control](https://medlineplus.gov/weightcontrol.html): consumer background on weight management.
+- [NIH Office of Dietary Supplements: what you need to know](https://ods.od.nih.gov/factsheets/WYNTK-Consumer/): a plain-language primer on what dietary supplements are and how they are regulated.
+- [FDA: dietary supplements](https://www.fda.gov/food/dietary-supplements): supplements fall under food law rather than medicines law in the United States, with no approval before sale.
+- [FTC: health claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims): the advertising rules a supplement health claim has to meet.
+- [National Alliance for Eating Disorders](https://www.allianceforeatingdisorders.com/): a free, clinician-staffed helpline, linked for anyone for whom thoughts about food or weight have become distressing.
+
+## Optional
+
+- [BakingSlim sitemap](https://bakingslim-us.vercel.app/sitemap.xml): the canonical URL and its images.
+- [BakingSlim robots.txt](https://bakingslim-us.vercel.app/robots.txt): crawling permissions, which allow all major search and AI crawlers.
+- [BakingSlim agent-readable description](https://bakingslim-us.vercel.app/.well-known/ard.json): structured label, blend-gap, capsule-count, ingredient-safety, evidence, package, guarantee and FAQ records in ARD 0.91 format.
+
+## Disclosure
+
+- [Affiliate and medical disclosure](https://bakingslim-us.vercel.app/#page): a commission may be paid when an order begins from a link here, with no effect on the checkout price. This page is not a review and carries no rating, score or testimonials. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Nothing here is medical advice. Not for anyone under 18, pregnant or nursing. Speak to a physician or pharmacist first if you take medication for blood sugar or blood pressure, or have a heart condition, high blood pressure, an anxiety disorder or a liver condition.
